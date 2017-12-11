@@ -1,1 +1,3 @@
 robotframework-httplibrary
+robotframework-sshlibrary
+pyopenssl
